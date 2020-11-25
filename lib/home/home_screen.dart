@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
           !showResult ? CrossFadeState.showFirst : CrossFadeState.showSecond,
     );
   }
-
+// custom slider to get data from user
   @override
   Widget build(BuildContext context) {
     Widget _buildBodyWidget() {
