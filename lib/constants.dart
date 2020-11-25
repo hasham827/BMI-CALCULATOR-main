@@ -12,7 +12,7 @@ const List<Color> kContainerGradientColors = <Color>[
   Colors.teal,
 ];
 
-// Decorations
+//  Main Container Decorations
 
 const BoxDecoration kMainContainerDecoration = BoxDecoration(
   gradient: LinearGradient(
