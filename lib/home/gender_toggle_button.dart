@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
-
+//Gender toggle button 
 class GenderToggleButton extends StatelessWidget {
   const GenderToggleButton({
     Key key,
     @required this.bgColor,
     @required this.icon,
     @required this.valueKey,
+ 
     @required this.onTap,
     @required this.text,
     @required this.textColor,
@@ -14,6 +15,8 @@ class GenderToggleButton extends StatelessWidget {
   final Color bgColor;
   final IconData icon;
   final ValueKey<String> valueKey;
+  
+    // change color off button  on tap 
   final void Function() onTap;
   final String text;
   final Color textColor;
