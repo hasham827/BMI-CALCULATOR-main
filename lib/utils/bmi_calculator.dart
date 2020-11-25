@@ -4,6 +4,7 @@ import 'package:bmicalculator/my_localizations.dart';
 import 'package:flutter/material.dart';
 
 class BmiCalculator {
+  //
   /// Calculates the BMI with given parameters named [height] and [weight].
   /// The formula used in calculating BMI is using the Metric units.
   /// So, the [height] must be in cm and the [weight] must be in kg.
