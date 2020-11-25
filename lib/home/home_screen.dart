@@ -29,6 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return GenderToggleButton(
       valueKey: ValueKey<String>('$gender'),
       bgColor: _selectedGender == gender
+      // Change back ground color of active button
           ? kActiveButtonBgColor
           : kInactiveButtonBgColor,
       icon: gender == Gender.Male
