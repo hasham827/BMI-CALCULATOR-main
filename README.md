@@ -1,8 +1,10 @@
+![Profile Header Image](https://github.com/hasham827/BMI-CALCULATOR-main/blob/master/Screenshots/fff.png)
+
+
 # BMI Calculator
 
 > **BMI Calculator** is a **Body Mass Index(BMI)** calculator app developed with **[Flutter](https://github.com/flutter/flutter)**.<br />
 Currently, the BMI is calculated using **Metric** units. Support for **Imperial** units may be added in the future.<br />
-The app supports **English** and **Turkish** languages.
 
 ## Table of Contents
 
@@ -31,7 +33,7 @@ You need to have **Flutter** installed on your pc.
 
 ### Installation
 
-1. Clone the repo using: `https://github.com/hasham827/BMI-CALCULATOR`
+1. Clone the repo using: https://github.com/hasham827/BMI-CALCULATOR-main
 2. To get the packages needed for the app, run:
 ```Dart
 flutter pub get
