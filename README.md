@@ -18,7 +18,7 @@ Currently, the BMI is calculated using **Metric** units. Support for **Imperial*
 ## Screenshots
 
 <p align="start">
-  <img width="200" height="370" src="https://github.com/hasham827/BMI-CALCULATOR/blob/main/Screenshots/Final.png">
+  <img width="200" height="370" src="https://github.com/hasham827/BMI-CALCULATOR-main/blob/master/Screenshots/Final.png">
  
 </p>
 
