@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed068c5a-2ed7-4a41-85b3-a5922b160309" name="Default Changelist" comment="" />
+    <list default="true" id="ed068c5a-2ed7-4a41-85b3-a5922b160309" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kmk7csT4oznzSYDjHmRbSfpaV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,13 +51,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="262" width="320" height="292" key="Github.ShareDialog" timestamp="1606313871750">
+    <state x="523" y="262" width="320" height="292" key="Github.ShareDialog" timestamp="1606314100425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="523" y="262" width="320" height="292" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606313871750" />
-    <state x="44" y="9" key="SettingsEditor" timestamp="1606314010443">
+    <state x="523" y="262" width="320" height="292" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606314100425" />
+    <state x="214" y="69" key="Github.UntrackedFilesDialog" timestamp="1606314163229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="44" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606314010443" />
+    <state x="214" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606314163229" />
+    <state x="44" y="9" key="SettingsEditor" timestamp="1606314532867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="44" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606314532867" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606314469714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606314469714" />
   </component>
 </project>

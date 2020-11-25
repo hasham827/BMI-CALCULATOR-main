@@ -11,9 +11,7 @@ const List<Color> kContainerGradientColors = <Color>[
   Colors.green,
   Colors.teal,
 ];
-
-// Decorations
-
+//Main container decoration box
 const BoxDecoration kMainContainerDecoration = BoxDecoration(
   gradient: LinearGradient(
     begin: Alignment.topLeft,
