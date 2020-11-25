@@ -21,7 +21,7 @@ const BoxDecoration kMainContainerDecoration = BoxDecoration(
     colors: kContainerGradientColors,
   ),
 );
-
+//Apply text style for App-bar
 const TextStyle kAppBarTextStyle = TextStyle(
   color: Color(0xff1D1F33),
   fontSize: 22.0,
