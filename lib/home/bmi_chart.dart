@@ -2,7 +2,7 @@ import 'dart:ui' show ImageFilter;
 import 'package:bmicalculator/constants.dart';
 import 'package:bmicalculator/my_localizations.dart';
 import 'package:flutter/material.dart';
-
+//Bmi Chart 
 class BmiChart extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

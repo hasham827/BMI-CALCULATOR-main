@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Curve painter to make it attractive 
 class CurvePainter extends CustomPainter {
   const CurvePainter({@required this.color, @required this.pathNo});
 

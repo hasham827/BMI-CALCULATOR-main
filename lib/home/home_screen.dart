@@ -28,6 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return GenderToggleButton(
       valueKey: ValueKey<String>('$gender'),
       bgColor: _selectedGender == gender
+      // Change back ground color of active button
           ? kActiveButtonBgColor
           : kInactiveButtonBgColor,
       icon: gender == Gender.Male
@@ -63,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
           !showResult ? CrossFadeState.showFirst : CrossFadeState.showSecond,
     );
   }
-
+// custom slider to get data from user
   @override
   Widget build(BuildContext context) {
     Widget _buildBodyWidget() {

@@ -9,7 +9,7 @@ class BmiResultWidget extends StatelessWidget {
   const BmiResultWidget({this.bmiResult});
 
   final BmiCalculator bmiResult;
-
+// Add bmichart button on result Screeen 
   @override
   Widget build(BuildContext context) {
     return Padding(
