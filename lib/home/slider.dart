@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:bmicalculator/constants.dart';
 
+
 // Displays the slider value inside the thumb shape by overriding paint().
 class _CustomSliderThumbCircle extends SliderComponentShape {
   const _CustomSliderThumbCircle({

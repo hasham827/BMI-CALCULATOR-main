@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed068c5a-2ed7-4a41-85b3-a5922b160309" name="Default Changelist" comment="">
+    <list default="true" id="ed068c5a-2ed7-4a41-85b3-a5922b160309" name="Default Changelist" comment="Main container decoration box">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home/slider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home/slider.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1606312987541</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main container decoration box">
+      <created>1606314576824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606314576824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main container decoration box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main container decoration box" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="262" width="320" height="292" key="Github.ShareDialog" timestamp="1606314100425">
@@ -59,13 +72,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="214" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606314163229" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1606318826536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606318826536" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1606318826536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606318826536" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1606318826536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606318826536" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1606318826536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606318826536" />
     <state x="44" y="9" key="SettingsEditor" timestamp="1606314532867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="44" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606314532867" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606314469714">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606314604625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606314469714" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606314604625" />
   </component>
 </project>

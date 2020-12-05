@@ -7,8 +7,7 @@ import 'package:bmicalculator/home/bmi_result.dart';
 import 'package:bmicalculator/home/curve_painter.dart';
 import 'package:bmicalculator/home/gender_toggle_button.dart';
 import 'package:bmicalculator/home/slider.dart';
-import 'package:bmicalculator/lib/model/gender.dart';
-import 'package:bmicalculator/models/gender.dart';
+import 'package:bmicalculator/model/gender.dart';
 import 'package:bmicalculator/utils/bmi_calculator.dart';
 
 class HomeScreen extends StatefulWidget {
